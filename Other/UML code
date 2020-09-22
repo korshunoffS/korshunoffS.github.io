@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Человек" as Человек {
+ Сковорода
+Жарить (Яйца, Утром): Яичница 
+}
+hide circle
+@enduml
