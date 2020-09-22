@@ -3,3 +3,5 @@
 # Лабораторная 1
 
 ![none](https://github.com/korshunoffS/korshunoffS.github.io/blob/master/Lab1/01_A0.png?raw=true)
+
+Предложение: Человек жарит на сковороде яичницу из яиц утром.
