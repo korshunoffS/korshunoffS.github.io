@@ -4,7 +4,7 @@
 
 # [Отчет по лабораторным](https://github.com/korshunoffS/korshunoffS.github.io/wiki/Лабораторные-работы-1-3) работам 1-3
 
-# Домашнее задание по [семинарам 3-4]https://github.com/korshunoffS/korshunoffS.github.io/wiki/Деловая-игра) 
+# Домашнее задание по [семинарам 3-4](https://github.com/korshunoffS/korshunoffS.github.io/wiki/Деловая-игра) 
 
 # [Отчет по лабораторным]() работам 4-6
 
