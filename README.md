@@ -8,4 +8,4 @@
 
 # [Отчет по лабораторным]() работам 4-6
 
-# Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam14-5) и [проверенный]()
+# Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam14-5) и [проверенный](https://github.com/stankin/design-part-1/wiki/exam14-3)
